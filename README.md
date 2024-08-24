@@ -1,0 +1,3 @@
+### Credit Card Loan Eligibility Prediction
+
+In this project, I conducted Exploratory Data Analysis (EDA) and employed logistic regression to predict credit card loan eligibility using a dataset with various variables. After encoding the target variable 'Loan_Status' to numerical values, I split the data into features (X) and the target variable (y), then divided it into training and testing sets. The logistic regression model was trained on the training data, and predictions were made on the test data. Finally, I evaluated the model's performance using accuracy metrics and generated a classification report. This project provided practical experience in data analysis, machine learning modeling, and model evaluation for credit card loan approval prediction.
